@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am ClaireWu!
+
+I am currently a graduate student in Sun Yat-San University in Guangzhou, China.
 
 <!--
 **codingClaire/codingClaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
