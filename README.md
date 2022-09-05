@@ -2,6 +2,8 @@
 
 I am currently a graduate student in Sun Yat-San University in Guangzhou, China.
 
+
+![Ruoting Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingClaire&show_icons=true&theme=dracula)
 <!--
 **codingClaire/codingClaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
