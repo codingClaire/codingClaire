@@ -1,9 +1,15 @@
-### Hi there 👋 I am ClaireWu!
+### Hi there 👋 I am Ruoting Wu!
 
-I am currently a graduate student in Sun Yat-San University in Guangzhou, China.
+I’m currently a graduate student majoring in Software Engineering in Sun Yat-San University in Guangzhou, China.
+
+🔭 Research on: Graph Neural Networks, Graph Classification, Code Intelligence
+
+⚡ Maintaing a [blog](https://codingclaire.github.io/leetcode/) for Leetcode Learning
+ 
+📫 How to reach me: wurt8@mail2.sysu.edu.cn
 
 
-![Ruoting Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingClaire&show_icons=true&theme=dracula)
+![Ruoting Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingClaire&layout=compact&theme=dracula)
 <!--
 **codingClaire/codingClaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
