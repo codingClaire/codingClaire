@@ -1,12 +1,17 @@
 ### Hi there 👋 I am Ruoting Wu!
 
-I’m currently a graduate student majoring in Software Engineering in Sun Yat-San University in Guangzhou, China.
+I’m currently a graduate student majoring in Software Engineering at Sun Yat-San University in Guangzhou, China.
 
-🔭 Research on: Graph Neural Networks, Graph Classification, Code Intelligence
+🔭 Research on Graph Neural Networks, Graph Classification, Code Intelligence
 
-⚡ Maintaing a [blog](https://codingclaire.github.io/leetcode/) for Leetcode Learning
+⚡ Maintaining a [blog](https://codingclaire.github.io/leetcode/) for Leetcode Learning
  
 📫 How to reach me: wurt8@mail2.sysu.edu.cn
+
+🆕 News:
+
+2023.10.04 Our work "Improving Code Representation Learning via Multi-view Contrastive Graph Pooling for Abstract Syntax Tree" has been accepted by CollaborateCom 2023
+   (check the [repository](https://github.com/codingClaire/TreePool) for the codes).
 
 
 ![Ruoting Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingClaire&layout=compact&theme=dracula)
